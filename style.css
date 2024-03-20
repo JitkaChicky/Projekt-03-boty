@@ -39,12 +39,11 @@ h1 {
     display:flex;
     width: 670px;
     height: 440px;
-    margin-top: 100px;
-    margin-left: 100px;
     justify-content: center;
     box-shadow: #959595 1px 3px 5px;
     border-radius: 5%;
     position: relative;
+    margin: 5% auto;
     }
 
     .vizual{
@@ -53,10 +52,6 @@ h1 {
         border-radius:5% 0 0 5%;
         padding: 30px;
         
-    }
-    .logo{
-    
-      
     }
 
     .slogan{
@@ -131,7 +126,6 @@ h1 {
     .parametr{
         padding-top: 30px;
         margin-top: 0;
-        margin-bottom: 0;
         font-size: 14px;
         font-weight: 500;
     }
@@ -141,6 +135,8 @@ h1 {
         justify-content: space-between;
         padding: 0;
         margin-bottom: 0;
+        margin-top: 0;
+        
     
     }
     .velikosti li {
